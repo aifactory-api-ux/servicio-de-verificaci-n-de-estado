@@ -1,0 +1,17 @@
+{
+  "enums": {},
+  "exports": {
+    "main.py": [
+      "app",
+      "ping"
+    ],
+    "test_main.py": [
+      "client",
+      "test_ping_success",
+      "test_ping_disallowed_methods",
+      "test_ping_post_method_not_allowed",
+      "test_ping_put_method_not_allowed",
+      "test_ping_delete_method_not_allowed"
+    ]
+  }
+}
